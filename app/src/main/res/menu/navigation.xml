@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/mtavari"
+        android:title="@string/title_mtavari" />
+
+    <item
+        android:id="@+id/navigation_baratebi"
+        android:icon="@drawable/baratebi"
+        android:title="@string/title_dashboard" />
+
+    <item
+        android:id="@+id/navigation_gadaxdebi"
+        android:icon="@drawable/gadaxdebi"
+        android:title="@string/title_notifications" />
+    <item
+        android:id="@+id/navigation_amonaweri"
+        android:icon="@drawable/amonaweri"
+        android:title="@string/title_amonaweri" />
+    <item
+        android:id="@+id/navigation_meti"
+        android:icon="@drawable/mti"
+        android:title="@string/title_meti" />
+
+
+</menu>

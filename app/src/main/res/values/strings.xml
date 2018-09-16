@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gifts</string>
+    <string name="title_mtavari">მთავარი</string>
+    <string name="title_dashboard">ბარათები</string>
+    <string name="title_notifications">გადახდები</string>
+    <string name="title_amonaweri">ამონაწერი</string>
+    <string name="title_meti">მეტი</string>
+</resources>
